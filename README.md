@@ -4,7 +4,7 @@
 
 ### Zhejiang University
 
-## [Paper]| [arXiv]| [Project Page](https://xiaobin2001.github.io/imporved-gs-web/)| [Result]
+## [Paper]| [arXiv]| [Project Page](https://xiaobin2001.github.io/improved-gs-web/)| [Result]
 
 In this work, we present a comprehensive improvement to the densification pipeline of 3DGS from three perspectives: when to densify, how to densify, and how to mitigate overfitting. Specifically, we propose an Edge-Aware Score to effectively select candidate Gaussians for splitting. We further introduce a Long-Axis Split strategy that reduces geometric distortions introduced by clone and split operations. To address overfitting, we design a set of techniques, including Recovery-Aware Pruning, Multi-step Update, and Growth Control. Our method enhances rendering fidelity without introducing additional training or inference overhead, achieving state-of-the-art performance with fewer Gaussians.
 
