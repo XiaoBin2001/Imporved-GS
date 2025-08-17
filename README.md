@@ -10,15 +10,15 @@ In this work, we present a comprehensive improvement to the densification pipeli
 
 ## Qualitative Result
 
-![garden_01](assets\garden_01.png)
+![garden_01](assets/garden_01.png)
 
-![drjohnson_01](assets\drjohnson_01.png)
+![drjohnson_01](assets/drjohnson_01.png)
 
-![train_01](assets\train_01.png)
+![train_01](assets/train_01.png)
 
 ## Quantitative Result
 
-![quantitative](assets\quantitative.png)
+![quantitative](assets/quantitative.png)
 
 ## Environment
 
